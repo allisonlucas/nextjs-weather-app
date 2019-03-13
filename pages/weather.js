@@ -77,7 +77,7 @@ class Weather extends Component {
                 paddingLeft: 25,
                 textAlign: 'center'
             }}>
-                <p>Today's Temperature and Wind Forecast Hour-by-Hour</p>
+                <p>Today&#39;s Temperature and Wind Forecast Hour-by-Hour</p>
                 { temperatureParsed.length && windSpeedParsed.length ? (
                     <VictoryChart
                         theme={VictoryTheme.material}

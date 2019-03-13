@@ -48671,7 +48671,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!***********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fweather&absolutePagePath=%2FUsers%2Fallisonlucas%2FDevelopment%2Fnextjs-app%2Fpages%2Fweather.js ***!
   \***********************************************************************************************************************************************/
@@ -48694,5 +48694,5 @@ module.exports = dll_55dc4e2ecf7824085104;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=weather.js.map
